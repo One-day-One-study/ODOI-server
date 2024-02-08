@@ -1,12 +1,3 @@
----
-name: Issue template
-about: Default issue template
-title: ''
-labels: ''
-assignees: Wo-ogie
-
----
-
 ## 🔥 Issue
 이슈 관련 내용을 입력하세요.
 
